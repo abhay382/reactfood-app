@@ -68,3 +68,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 
+![maxresdefault (3)](https://user-images.githubusercontent.com/62319333/211526772-74d81f8d-36be-4c0f-a5b6-f70a9023c7c0.jpg)
